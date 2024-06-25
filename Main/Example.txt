@@ -3,5 +3,3 @@ This is the first example
 This is a new line
 
 This line is added after the git add - first time
-
-This is to test with the VSCode
